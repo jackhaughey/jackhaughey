@@ -21,5 +21,7 @@ Former Senior Cloud & Network Engineer at NCR Atleos, now focusing on building *
 - Creating **clean, documented IaC modules** for real‑world deployments
 
 ## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haugheyjack)
+
 - GitHub: @jackhaughey  
 - Location: Glasgow, Scotland  
