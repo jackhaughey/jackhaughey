@@ -14,6 +14,8 @@ Former Cloud & Network Engineer at NCR Atleos, now focusing on building **reprod
   https://github.com/jackhaughey/dotfiles  
 - **Terraform Infrastructure** — Production‑ready IaC patterns and modular design  
   https://github.com/jackhaughey/terraform
+- **Kubernetes Lab** - Fully reproducable, automated Kubernetes environment
+  https://github.com/jackhaughey/kubernetes_lab
 
 ## 🚀 What I'm Working On
 - Building a **zero‑host‑pollution** DevOps laptop workflow  
