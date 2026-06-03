@@ -1,6 +1,6 @@
 # Hi, I'm Jack 👋
 
-Former Senior Cloud & Network Engineer at NCR Atleos, now focusing on building **reproducible, containerised development environments**, **atomic Linux workflows**, and **infrastructure automation**.
+Former Cloud & Network Engineer at NCR Atleos, now focusing on building **reproducible, containerised development environments**, **atomic Linux workflows**, and **infrastructure automation**.
 
 ## 🔧 Core Focus Areas
 - **Cloud & Infrastructure Automation** — Terraform, Kubernetes, GitHub Actions, CI/CD  
